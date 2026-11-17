@@ -5,3 +5,6 @@ Upload ALL files from this folder to the ROOT of a NEW GitHub repository, then e
 Includes both teams, all 20 properties, expense categories, source summary tabs, salary/security/LAWMA, commentary and metric explanations. Values are snapshots of the supplied workbooks, not automatically synced to future edits. To refresh, the dashboard must be regenerated with new workbooks.
 
 Important: Some workbook sheets use inconsistent annual horizons or labels. The site explains these caveats.
+
+NOVEMBER UPDATE: Profit & loss tab is a provisional collections-minus-OPEX view, NOT audited net profit.
+The dashboard now reconciles gross favourable and unfavourable budget variances and displays totals for each Salary & Services section.
